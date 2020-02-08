@@ -1,5 +1,5 @@
-# OTA
-OTA
+#ESP8266 – HomeKit Firmware Update
+ESP8266 – HomeKit Firmware Update
 For More Information Visit http://www.studiopieters.nl
 
 ## Note: Work In progress!
